@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67" alt="first">
 <h1 align="center">Hi 👋, I'm Nazmus Sakib Shafin</h1>
 <h3 align="center">Frontend sorcery: React wizardry, JavaScript mastery, TailwindCSS elegance, Firebase enchantment. ✨</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*9CCs5F2GMeJRVraF4Oh2Bw.gif" alt="logo">
+<img width="600px" src="https://miro.medium.com/v2/resize:fit:1400/1*9CCs5F2GMeJRVraF4Oh2Bw.gif" alt="logo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshafin90&label=Profile%20views&color=0e75b6&style=flat" alt="mdshafin90" /> </p>
 
