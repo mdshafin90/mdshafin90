@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazmus Sakib Shafin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="">
+<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshafin90&label=Profile%20views&color=0e75b6&style=flat" alt="mdshafin90" /> </p>
 
