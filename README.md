@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67">
 
 <h1 align="center">Hi 👋, I'm Nazmus Sakib Shafin</h1>
-<h3 align="center">Frontend sorcery: React wizardry, JavaScript mastery, TailwindCSS elegance, Firebase enchantment. ✨</h3>
+<h3 align="center">Frontend virtuoso skilled in React, JS, TailwindCSS, Firebase. Let's shape your digital vision into reality. ✨</h3>
 <img align="right" width="400" alt="Coding"
     src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
